@@ -1,0 +1,6 @@
+export const todosActionsMap = {
+    ADD_TODO: 'ADD_TODO',
+    REMOVE_TODO: 'REMOVE_TODO',
+    UPDATE_CURRENT_TODO: 'UPDATE_CURRENT_TODO',
+    RESET_TODOS: 'RESET_TODOS'
+}
